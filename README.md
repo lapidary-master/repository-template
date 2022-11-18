@@ -1,72 +1,40 @@
-<!-- /Title/ -->
+<p align="center"><img src="https://sweetfirekitsune.neocites.org/img/project-headers/$PROJECTID_$PROJECTFILENAME.png" alt="$PROJECTNAME header"></p>
 
-<h1 align="center">
-	
-	<!-- /Project Image/ -->
-	<img src="https://sweetfirekitsune.neocities.org/img/project_header/11_sabre.png" alt="Project Sabre Image">
-	<!-- \Project Image\ -->
-</h1>
+<h1 align="center">$PROJECTNAME</h1>
 
-<!-- /Project Title/ -->
-<h1 align="center">Project Sabre</h1>
-<!-- \Project Title\ -->
+<p align="center">$PROJECTDESCRIPTION</p>
 
-<!-- /Project Description/ -->
-<p align="center>Project Sabre is the internal project used to collect all data relating to the website collection under the domain sweetfirekitsune.co.uk along with scripts that are used.</p>
-<!-- \Project Description\ -->
+<hr>
 
+<p align="center">
 
-<!-- /Project Badges/ -->
-<table>
-	<tr>
-		<td align="center">
-			<a href="https://git.sweetfirekitsune.co.uk/lapidary_master/11_sabre/releases">
-				<img src="https://img.shields.io/badge/Version-0.0.0-7851a9?style=for-the-badge">
-			</a>
-		</td>
-		
-		<td align="center">
-			<a href="https://discord.gg/project-sabre">
-				<img src="https://img.shields.io/discord/(SERVERID)?label=Discord&logo=discord&logoColor=fff&style=for-the-badge">
-			</a>
-		
-		<td align="center">
-			<a href="https://yunohost.org/">
-				<img src="https://img.shields.io/badge/OS-YunoHost (Debian)-A81D33?style=for-the-badge">
-			</a>
-		</td>
-	</tr>
-	
-	<tr>
-		<td align="center">
-			<a href="https://www.gnu.org/licenses/agpl-3.0.txt">
-				<img src="https://img.shields.io/badge/License-AGPLv3-green?style=for-the-badge">
-			</a>
-		</td>
-		
-		<td align="center">
-			<a href="https://www.gnu.org/software/bash">
-				<img src="https://img.shields.io/badges/Language-Bash%2FShell-4EAA25?style=for-the-badge">
-			</a>
-			
-			<br>
-			
-			<a href="https://www.ansible.com/">
-				<img src="https://img.shields.io/badges/Language-Ansible-E00?style=for-the-badge">
-			</a>
-		</td>
-		
-		<td align="center">
-			<a href="https://git.sweetfirekitsune.co.uk/lapidary_master/11_sabre/wiki">
-				<img src="https://img.shields.io/badges/Documentation-README-000?style=for-the-badge">
-			</a>
-		</td>
-	</tr>
-</table>
-<!-- \Title\ -->
+<a href="https://git.sweetfirekitsune.co.uk/lapidary_master/$PROJECTID_$PROJECTFILENAME/releases"><img src="https://img.shields.io/badge/Version-0.0.0-7851A9?style=for-the-badge"></a>
+<a href="https://discord.gg/project-sabre"><img src="https://img.shields.io/discord/(ID)?label=Discord&style=for-the-badge"></a>
+<a href="https://yunohost.org/"><img src="https://img.shields.io/badge/Operating%20System-YunoHost 11.0.10.2--stable (Debian 11 Bullseye)-A81D33?style=for-the-badge"></a>
 
-<!-- // -->
-## Installation
+</p>
 
+<p align="center">
 
+<a href="https://www.gnu.org/licenses/agpl-3.0.txt"><img src="https://img.shields.io/badge/License-AGPLv3-success?style=for-the-badge"></a>
+<a href="https://www.gnu.org/software/bash"><img src="https://img.shields.io/badge/Language-Shell-4EAA25?style=for-the-badge"></a>
+<a href="https://git.sweetfirekitsune.co.uk/lapidary_master/$PROJECTID_$PROJECTFILENAME/wiki"><img src="https://img.shields.io/badge/Documentation-Wiki-000?style=for-the-badge"></a>
+
+</p>
+
+<h2>Table of Contents</h2>
+
+<ol>
+<li><a href="#features">Features</a></li>
+<li><a href="#example">Examples</a></li>
+<li><a href="#philosophy">Philosophy</a></li>
+<li><a href="#FAQ">FAQ</a></li>
+<li><a href="#API">API</a></li>
+<li><a href="#installation">Installation</a></li>
+<li><a href="#seealso">See Also</a></li>
+<li><a href="#support">Support</a></li>
+	<li><a href="#sponsors">Sponsors</a></li>
+	<li><a href="#backers">Backers</a></li>
+<li><a href="#license">License</a></li>
+</ol>
 
